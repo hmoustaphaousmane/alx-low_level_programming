@@ -6,4 +6,7 @@
 
 * 2-assembler : generate the assembly code of a C code and save it in an output file
 
-* 3-name : compile a C file and creates an executable named cisfun
+* 3-name : compile a C file and creates an executable named cisfuna
+
+* 4-puts.c : a C program that prints exactly "Programming is like building a multilingual puzzle"
+
