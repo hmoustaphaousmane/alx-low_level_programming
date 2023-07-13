@@ -6,3 +6,4 @@
 
 * 2-assembler : generate the assembly code of a C code and save it in an output file
 
+* 3-name : compile a C file and creates an executable named cisfun
