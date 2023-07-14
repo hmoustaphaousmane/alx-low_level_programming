@@ -22,3 +22,5 @@
 
 * 100-print_comb3.c : print all possible different combinations of two digits
 
+101-print_comb4.c : print all possible different combinations of three digits
+
