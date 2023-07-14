@@ -16,3 +16,5 @@
 
 * 7-print_tebahpla.c : print the lowercase alphabet in reverse
 
+* 8-print_base16.c : print all the numbers of base 16 in lowercase
+
