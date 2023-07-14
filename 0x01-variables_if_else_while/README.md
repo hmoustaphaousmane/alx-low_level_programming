@@ -4,3 +4,5 @@
 
 * 1-last_digit.c : print the last digit of the number stored in the variable n
 
+3-print_alphabets.c : print the alphabet in lowercase
+
