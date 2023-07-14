@@ -18,3 +18,5 @@
 
 * 8-print_base16.c : print all the numbers of base 16 in lowercase
 
+* 9-print_comb.c : print all possible combinations of single-digit numbers
+
