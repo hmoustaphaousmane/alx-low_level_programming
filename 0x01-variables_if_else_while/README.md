@@ -12,3 +12,5 @@
 
 * 5-print_numbers.c : print all single digit numbers of base 10 starting from 0
 
+* 6-print_numberz.c : print all single digit numbers of base 10 starting from 0
+
