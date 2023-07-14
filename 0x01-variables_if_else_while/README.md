@@ -14,3 +14,5 @@
 
 * 6-print_numberz.c : print all single digit numbers of base 10 starting from 0
 
+* 7-print_tebahpla.c : print the lowercase alphabet in reverse
+
