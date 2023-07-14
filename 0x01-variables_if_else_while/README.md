@@ -20,3 +20,5 @@
 
 * 9-print_comb.c : print all possible combinations of single-digit numbers
 
+* 100-print_comb3.c : print all possible different combinations of two digits
+
