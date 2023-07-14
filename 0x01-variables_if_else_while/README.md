@@ -24,3 +24,5 @@
 
 101-print_comb4.c : print all possible different combinations of three digits
 
+* 102-print_comb5.c : print  all possible combinations of two two-digit numbers
+
