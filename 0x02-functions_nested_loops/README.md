@@ -9,3 +9,6 @@
 * 3-islower.c : check for lowercase character
 
 * 4-isalpha.c : for alphabetic character
+
+* 5-sign.c : print the sign of a number
+
