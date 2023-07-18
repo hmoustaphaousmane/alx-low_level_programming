@@ -3,7 +3,9 @@
 
 void print_alphabet(void);
 void print_alphabet_x10(void);
+void _putchar(int c);
 int _islower(int c);
+int _isalpha(int c);
 
 #endif /* MAIN_H */
 

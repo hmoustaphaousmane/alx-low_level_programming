@@ -8,3 +8,4 @@
 
 * 3-islower.c : check for lowercase character
 
+* 4-isalpha.c : for alphabetic character
