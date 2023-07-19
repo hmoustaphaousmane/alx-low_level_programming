@@ -16,3 +16,5 @@
 
 * 7-print\_last\_digit.c : print the last digit of a number
 
+* 8-24\_hours.c : print every minute of the day of Jack Bauer, starting from 00:00 to 23:59
+
