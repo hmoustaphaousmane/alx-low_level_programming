@@ -32,4 +32,5 @@
 
 * 103-fibonacci.c : find and print the sum of the even-valued terms in the terms in the Fibonacci sequence whose values do not exceed 4,000,000
 
+* 104-fibonacci.c : find and print the first 98 Fibonacci numbers, starting with 1 and 2
 
