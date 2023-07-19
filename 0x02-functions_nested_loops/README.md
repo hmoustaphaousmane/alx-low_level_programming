@@ -22,3 +22,7 @@
 
 * 10-add.c : add two integers and returns the result
 
+* 11-print\_to\_98.c : print all natural numbers from n to 98
+
+* 100-times\_table.c : print the n times table, starting with 0
+
