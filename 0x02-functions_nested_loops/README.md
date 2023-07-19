@@ -20,3 +20,5 @@
 
 * 9-times\_table.c : print the 9 times table, starting with 0
 
+* 10-add.c : add two integers and returns the result
+
