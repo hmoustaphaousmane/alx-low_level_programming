@@ -6,3 +6,5 @@
 
 * 1-main.c : comment bugging lines of the code
 
+* 2-largest\_number.c : print the largest of three numbers
+
