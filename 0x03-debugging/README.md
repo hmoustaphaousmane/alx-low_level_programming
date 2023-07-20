@@ -4,3 +4,5 @@
 
 * 0-main.c : test the function positive\_or\_negative()
 
+* 1-main.c : comment bugging lines of the code
+
