@@ -2,5 +2,7 @@
 
 * 0-isupper.c : check for uppercase character
 
+* 1-isdigit.c : check for a digit
+
 * 2-mul.c
 
