@@ -18,3 +18,5 @@
 
 * 8-print\_array.c : print n elements of an array of integers
 
+* 9-strcpy.c : print the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest
+
