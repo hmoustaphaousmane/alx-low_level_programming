@@ -12,3 +12,5 @@
 
 * 5-rev\_string.c : print a reversed string
 
+* 6-puts2.c : print every other character of a string, starting with the first character
+
