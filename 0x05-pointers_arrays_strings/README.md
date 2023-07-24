@@ -10,3 +10,5 @@
 
 * 4-print\_rev.c : print a string in reverse
 
+* 5-rev\_string.c : print a reversed string
+
