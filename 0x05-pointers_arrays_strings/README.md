@@ -4,3 +4,5 @@
 
 * 1-swap.c : swap the values of two integers
 
+* 2-strlen.c : return the length of a string
+
