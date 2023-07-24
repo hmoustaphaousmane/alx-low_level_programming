@@ -14,3 +14,5 @@
 
 * 6-puts2.c : print every other character of a string, starting with the first character
 
+* 7-puts\_half.c : print half of a string
+
