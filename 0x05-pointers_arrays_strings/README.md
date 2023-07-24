@@ -16,3 +16,5 @@
 
 * 7-puts\_half.c : print half of a string
 
+* 8-print\_array.c : print n elements of an array of integers
+
