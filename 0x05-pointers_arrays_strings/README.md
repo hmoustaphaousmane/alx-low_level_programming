@@ -22,3 +22,5 @@
 
 * 100-atoi.c : convert a string to an integer
 
+* 101-keygen.c : program that generates random valid passwords for the program 101-crackme
+
