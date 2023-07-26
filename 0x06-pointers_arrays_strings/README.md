@@ -10,3 +10,5 @@
 
 * 3-strcmp.c : compare two strings
 
+* 4-rev\_array.c : reverse the content of an array of integers
+
