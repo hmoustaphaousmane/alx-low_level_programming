@@ -14,3 +14,5 @@
 
 * 5-string\_toupper.c : change all lowercase letters of a string to uppercase
 
+* 6-cap\_string.c : capitalize all words of a string
+
