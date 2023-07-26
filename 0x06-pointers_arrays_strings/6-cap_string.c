@@ -3,36 +3,33 @@
  *
  * @str: the string to be capitalized
  *
- * Return: str capitalized
+ * Return: strcap, str capitalized
  */
 
 char *cap_string(char *str)
 {
-	char *strtmp = str;
-	int capitalise = 1;
+	char *strcap = str;
+	int capitalize = 1;
 
-	while (*strtmp != '\0')
+	while (*str != '\0')
 	{
-		if (*strtmp >= 'a' && *ptr <= 'z')
+		if (*str == ' ' || *str == 't' || *str == 'n' || *str == ',' ||
+*str == ';' || *str == '.' || *str == '!' || *str == '?' ||
+*str == '"' || *str == '(' || *str == ')' || *str == '{' || *str == '}')
 		{
-			if (capitalise)
-			{
-				*strtmp = *ptr - 32;
-				capitalise = 0;
-			}
+			capitalize = 1;
 		}
-		else if (*strtmp == ' ' || *ptr == '\t' || *ptr == '\n' ||
-*strtmp == ',' || *ptr == ';' || *ptr == '.' || *ptr == '!' || *ptr == '?' ||
-*strtmp == '"' || *ptr == '(' || *ptr == ')' || *ptr == '{' || *ptr == '}')
+		else if (capitalize && *str >= 'a' && *str <= 'z')
 		{
-			capitalise = 1;
+			*str = *str - 32;
+			capitalize = 0;
 		}
 		else
 		{
-			capitalise = 0;
+			capitalize = 0;
 		}
-		strtmp++;
+		str++;
 	}
 
-	return (str);
+	return (strcap);
 }
