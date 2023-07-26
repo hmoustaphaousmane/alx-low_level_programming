@@ -5,26 +5,23 @@
  * @src: second string
  * @n: number of bytes
  *
- * Return: strcpy, the copied string
+ * Return: dest, the copied string
  */
 
 char *_strncpy(char *dest, char *src, int n)
 {
-	char *strcpy = dest;
+	int i = 0;
 
-	while (*src != '\0' && n > 0)
+	while (src[i] != '\0' && i < n)
 	{
-		*dest = *src;
-		dest++;
-		src++;
-		n--;
+		dest[i] = src[i];
+		i++;
 	}
-	while (n > 0)
+	while (i < n)
 	{
-		*dest = '0';
-		dest++;
-		n--;
+		dest[i] = '\0';
+		i++;
 	}
 
-	return (strcpy);
+	return (dest);
 }
