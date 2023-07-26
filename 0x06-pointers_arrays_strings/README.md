@@ -6,3 +6,7 @@
 
 * 1-strncat.c : concatenate n bytes from src to dest
 
+* 2-strncpy.c : capy a string ?!
+
+* 3-strcmp.c : compare two strings
+
