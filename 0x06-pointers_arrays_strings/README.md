@@ -12,3 +12,5 @@
 
 * 4-rev\_array.c : reverse the content of an array of integers
 
+* 5-string\_toupper.c : change all lowercase letters of a string to uppercase
+
