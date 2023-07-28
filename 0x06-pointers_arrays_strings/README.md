@@ -18,3 +18,5 @@
 
 * 7-leet.c : that encode a string into 1337
 
+* 100-rot13.c : encode a string using rot13
+
