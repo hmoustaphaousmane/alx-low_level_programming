@@ -24,3 +24,5 @@
 
 * 102-magic.c : print a[2] = 98
 
+* 104-print\_buffer.c : print a number of bytes of a buffer
+
