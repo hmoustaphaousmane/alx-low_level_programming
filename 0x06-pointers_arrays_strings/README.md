@@ -20,3 +20,7 @@
 
 * 100-rot13.c : encode a string using rot13
 
+* 101-print\_number.c : ?!
+
+* 102-magic.c : print a[2] = 98
+
