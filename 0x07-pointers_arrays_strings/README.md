@@ -8,3 +8,5 @@
 
 * 3-strspn.c
 
+* 4-strpbrk.c
+
