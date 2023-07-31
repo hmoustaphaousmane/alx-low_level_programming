@@ -16,4 +16,7 @@
 
 * 8-print\_diagsums.c
 
+* 100-set\_string.c
+
+
 
