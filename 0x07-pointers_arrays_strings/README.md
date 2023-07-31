@@ -12,3 +12,8 @@
 
 * 5-strstr.c
 
+* 7-print\_chessboard.c
+
+* 8-print\_diagsums.c
+
+
