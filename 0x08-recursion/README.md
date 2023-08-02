@@ -10,3 +10,7 @@
 
 * 4-pow\_recursion.c
 
+* 5-sqrt\_recursion.c
+
+* 6-is\_prime\_number.c
+
