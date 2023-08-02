@@ -6,3 +6,5 @@
 
 * 2-strlen\_recursion.c
 
+* 3-factorial.c
+
