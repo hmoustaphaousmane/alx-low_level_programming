@@ -14,3 +14,7 @@
 
 * 6-is\_prime\_number.c
 
+* 100-is\_palindrome.c 
+
+* 101-wildcmp.c
+
