@@ -8,3 +8,5 @@
 
 * 3-factorial.c
 
+* 4-pow\_recursion.c
+
