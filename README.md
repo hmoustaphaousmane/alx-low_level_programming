@@ -18,3 +18,5 @@
 
 ## 0x08-recursion
 
+## 0x09-static\_libraries
+
