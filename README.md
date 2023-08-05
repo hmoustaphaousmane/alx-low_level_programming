@@ -20,3 +20,5 @@
 
 ## 0x09-static\_libraries
 
+## 0x0A-argc\_argv
+
