@@ -4,3 +4,5 @@
 
 * 1-strdup.c
 
+* 2-str\_concat.c
+
