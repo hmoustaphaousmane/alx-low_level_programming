@@ -2,3 +2,5 @@
 
 * 0-create\_array.c
 
+* 1-strdup.c
+
