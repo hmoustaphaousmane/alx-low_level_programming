@@ -8,3 +8,5 @@
 
 * 3-alloc\_grid.c
 
+* 4-free\_grid.c
+
