@@ -6,3 +6,5 @@
 
 * 2-str\_concat.c
 
+* 3-alloc\_grid.c
+
