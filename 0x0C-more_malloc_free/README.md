@@ -8,3 +8,5 @@
 
 * 3-array\_range.c
 
+* 100-realloc.c
+
