@@ -24,3 +24,5 @@
 
 ## 0x0B-malloc\_free
 
+## 0x0C-more\_malloc\_free
+
