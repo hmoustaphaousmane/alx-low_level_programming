@@ -2,3 +2,5 @@
 
 * dog.h
 
+* 1-init\_dog.c
+
