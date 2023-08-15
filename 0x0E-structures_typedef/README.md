@@ -4,3 +4,5 @@
 
 * 1-init\_dog.c
 
+* 2-print\_dog.c
+
