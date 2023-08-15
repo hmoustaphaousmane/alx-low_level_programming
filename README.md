@@ -27,3 +27,6 @@
 ## 0x0C-more\_malloc\_free
 
 ## 0x0D-preprocessor
+
+## 0x0E-structures\_typedef
+
