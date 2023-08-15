@@ -6,3 +6,5 @@
 
 * 2-print\_dog.c
 
+* 4-new\_dog.c
+
