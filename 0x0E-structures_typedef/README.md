@@ -8,3 +8,5 @@
 
 * 4-new\_dog.c
 
+* 5-free\_dog.c
+
