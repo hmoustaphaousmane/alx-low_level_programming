@@ -32,3 +32,5 @@
 
 ## [0x0F-function\_pointers](https://github.com/hmoustaphaousmane/alx-low_level_programming/tree/main/0x0F-function_pointers)
 
+## [0x10-variadic\_functions](https://github.com/hmoustaphaousmane/alx-low_level_programming/tree/main/0x10-variadic_functions)
+
