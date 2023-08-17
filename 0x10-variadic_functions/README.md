@@ -6,3 +6,5 @@
 
 * 2-print\_strings.c
 
+* 3-print\_all.c
+
