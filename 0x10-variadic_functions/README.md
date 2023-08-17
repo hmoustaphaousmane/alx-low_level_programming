@@ -4,3 +4,5 @@
 
 * 1-print\_numbers.c
 
+* 2-print\_strings.c
+
