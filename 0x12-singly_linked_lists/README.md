@@ -4,3 +4,5 @@
 
 * 1-list\_len.c
 
+* 2-add\_node.c
+
