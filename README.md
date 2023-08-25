@@ -34,3 +34,5 @@
 
 ## [0x10-variadic\_functions](https://github.com/hmoustaphaousmane/alx-low_level_programming/tree/main/0x10-variadic_functions)
 
+## [0x12-singly\_linked\_lists](https://github.com/hmoustaphaousmane/alx-low_level_programming/tree/main/0x12-singly_linked_lists)
+
