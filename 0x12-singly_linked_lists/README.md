@@ -8,3 +8,5 @@
 
 * 3-add\_node\_end.c
 
+* 4-free\_list.c
+
