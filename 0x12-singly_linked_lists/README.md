@@ -6,3 +6,5 @@
 
 * 2-add\_node.c
 
+* 3-add\_node\_end.c
+
