@@ -36,3 +36,5 @@
 
 ## [0x12-singly\_linked\_lists](https://github.com/hmoustaphaousmane/alx-low_level_programming/tree/main/0x12-singly_linked_lists)
 
+## [0x13-more\_singly\_linked\_lists](https://github.com/hmoustaphaousmane/alx-low_level_programming/tree/main/0x13-more_singly_linked_lists)
+
