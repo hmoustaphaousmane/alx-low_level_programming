@@ -8,3 +8,5 @@
 
 * 2-add\_nodeint.c
 
+* 3-add\_nodeint\_end.c
+
