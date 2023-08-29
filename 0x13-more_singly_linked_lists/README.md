@@ -14,3 +14,5 @@
 
 * 5-free\_listint2.c
 
+* 6-pop\_listint.c
+
