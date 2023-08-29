@@ -18,3 +18,5 @@
 
 * 7-get\_nodeint.c
 
+* 8-sum\_listint.c
+
