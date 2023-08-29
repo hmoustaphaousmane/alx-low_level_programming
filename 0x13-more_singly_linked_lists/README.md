@@ -22,3 +22,5 @@
 
 * 9-insert\_nodeint.c
 
+* 10-delete\_nodeint.c
+
