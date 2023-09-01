@@ -10,3 +10,5 @@
 
 * 4-clear\_bit.c
 
+* 5-flip\_bits.c
+
