@@ -6,3 +6,5 @@
 
 * 2-get\_bit.c
 
+* 3-set\_bit.c
+
