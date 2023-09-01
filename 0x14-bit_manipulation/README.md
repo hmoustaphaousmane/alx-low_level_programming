@@ -8,3 +8,5 @@
 
 * 3-set\_bit.c
 
+* 4-clear\_bit.c
+
