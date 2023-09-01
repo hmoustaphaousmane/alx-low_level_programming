@@ -2,3 +2,5 @@
 
 * 0-binary\_to\_uint.c
 
+* 1-print\_binary.c
+
