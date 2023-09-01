@@ -4,3 +4,5 @@
 
 * 1-print\_binary.c
 
+* 2-get\_bit.c
+
