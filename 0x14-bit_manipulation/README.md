@@ -12,3 +12,5 @@
 
 * 5-flip\_bits.c
 
+* 100-get\_endianness.c
+
