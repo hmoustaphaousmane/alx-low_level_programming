@@ -45,7 +45,7 @@ void _close(int fd)
  * @argc: Arguments count
  * @argv: Arguments values (an array)
  *
- * Return: Always 0 (Succuss)
+ * Return: Always 0 (Success)
  */
 int main(int argc, char *argv[])
 {
@@ -58,32 +58,53 @@ int main(int argc, char *argv[])
 		exit(97);
 	}
 
-	buffer = _buffer(argv[2]);
-	file_from = open(argv[2], O_RDONLY);
-	rfile = read(file_from, buffer, 1024);
-	file_to = open(argv[2], O_CREAT | O_WRONLY | O_TRUNC, 0664);
-
-	do
+	buffer = _buffer(argv[1]);
+	file_from = open(argv[1], O_RDONLY);
+	if (file_from == -1)
 	{
-		if (file_from == -1 || rfile == -1)
+		dprintf(STDERR_FILENO,
+			"Error: Can't read from file %s\n", argv[1]);
+		free(buffer);
+		exit(98);
+	}
+
+	file_to = open(argv[2], O_CREAT | O_WRONLY | O_TRUNC, 0664);
+	if (file_to  == -1)
+	{
+		dprintf(STDERR_FILENO,
+			"Error: Can't read from file %s\n", argv[2]);
+		free(buffer);
+		exit(98);
+	}
+
+	do {
+		rfile = read(file_from, buffer, 1024);
+		if (rfile == -1)
 		{
 			dprintf(STDERR_FILENO,
 				"Error: Can't read from file %s\n", argv[1]);
+			_close(file_from);
+			_close(file_to);
 			free(buffer);
 			exit(98);
 		}
-
-		wfile = write(file_to, buffer, rfile);
-		if (file_to == -1 || wfile == -1)
+		else if (rfile > 0)
 		{
-			dprintf(STDERR_FILENO,
-				"Error: Can't write to %s\n", argv[2]);
-			free(buffer);
-			exit(99);
+			wfile = write(file_to, buffer, rfile);
+			if (wfile == -1)
+			{
+				dprintf(STDERR_FILENO,
+					"Error: Can't write to %s\n", argv[2]);
+				_close(file_from);
+				_close(file_to);
+				free(buffer);
+				exit(99);
+			}
 		}
-
-		rfile = read(file_from, buffer, 1024);
-		file_to = open(argv[2], O_WRONLY | O_APPEND);
+		/*
+		 * rfile = read(file_from, buffer, 1024);
+		 * file_to = open(argv[2], O_WRONLY | O_APPEND);
+		 */
 	} while (rfile > 0);
 
 	free(buffer);
